@@ -43,3 +43,20 @@ I checked the successful SSH logins and found that the same IP had connected suc
 - How grep, awk, tail, and journalctl can be used to filter and analyze logs.
 - How Fail2ban detects repeated login failures.
 - How to compare authentication events and determine whether activity is suspicious.
+
+## Project Screenshots
+
+### UFW Firewall Configuration
+![Failed SSH login](screenshots/ufw-firewall.png)
+
+### Fail2Ban SSH Monitoring
+![Failed SSH login](screenshots/fail2ban-sshd.png)
+
+### Successful SSH Login Investigation
+![Failed SSH login](screenshots/successful-ssh-login.png)
+
+### Failed SSH Login Detection
+![Failed SSH login](screenshots/failed-ssh-login.png)
+
+
+
