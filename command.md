@@ -1,4 +1,4 @@
-# Linux Security Investigation - Commandss
+# Linux Security Investigation - Commands
 
 These are the primary Linux commands I used while building and investigating my Ubuntu security lab.
 
