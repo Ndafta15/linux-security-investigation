@@ -47,16 +47,16 @@ I checked the successful SSH logins and found that the same IP had connected suc
 ## Project Screenshots
 
 ### UFW Firewall Configuration
-![Failed SSH login](screenshots/ufw-firewall.png)
+![UFW firewall configuration](screenshots/ufw-firewall.png)
 
 ### Fail2Ban SSH Monitoring
-![Failed SSH login](screenshots/fail2ban-sshd.png)
+![Fail2Ban SSH monitoring](screenshots/fail2ban-sshd.png)
 
 ### Successful SSH Login Investigation
-![Failed SSH login](screenshots/successful-ssh-login.png)
+![Successful SSH login investigation](screenshots/successful-ssh-login.png)
 
 ### Failed SSH Login Detection
-![Failed SSH login](screenshots/failed-ssh-login.png)
+![Failed SSH login detection](screenshots/failed-ssh-login.png)
 
 
 
